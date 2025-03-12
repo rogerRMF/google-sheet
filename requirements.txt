@@ -2,4 +2,5 @@ pygsheets
 streamlit-option-menu
 streamlit
 pandas
+streamlit-javascript
 
