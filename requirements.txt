@@ -1,1 +1,5 @@
 pygsheets
+streamlit-option-menu
+streamlit
+pandas
+
